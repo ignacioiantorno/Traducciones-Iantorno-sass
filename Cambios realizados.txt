@@ -1,0 +1,16 @@
+Cambios:
+
+En todas las paginas del sitio agregue las Keywords:
+"Traducciones, Proyectos, Traduccion, Ingles, Español, Presupuesto, Idiomas, Subtitulos"
+
+En todas las paginas del sitio le cambie los titulos de la siguiente manera:
+"nombre de la pagina" - Traducciones Aprícano. para que los buscadores tomen como unicos cada nombre.
+
+
+En todas las paginas del sitio agregue una descripcion del sitio web:
+"Este es un sitio web de traducciones ingles-español español-ingles"
+
+Utilice SASS para poder seleccionar una sola vez los colores del sitio.
+
+agregue a todos los links de redes sociales el target blank para que se abra en otra pestaña diferente al hacer click
+
